@@ -2,7 +2,7 @@
   "name": "react-coming-soon-page",
   "version": "1.0.0",
   "description": "React site under contruction page to showcase countdown timer and opt-in form components.",
-  "homepage": "https://ArismLab.github.io/comming-soon-SNS",
+  "homepage": "https://arismlab.github.io/comming-soon-SNS/",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
